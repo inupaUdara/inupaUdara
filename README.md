@@ -1,6 +1,6 @@
 <h1 align="left
   ">Inupa Udara</h1>
-<h3 align="justify">I'm Inupa Udara. I'm currently studying Information Technology at Sri Lanka Institute of Information Technology.I interest making and designing webpages with HTML, CSS and JavaScript.</h3>
+<h3 align="justify">I'm Inupa Udara. I'm currently studying Information Technology at Sri Lanka Institute of Information Technology. I interest making and designing webpages with HTML, CSS and JavaScript.</h3>
 
 
 - I’m currently learning JAVA and JAVASCRIPT.
