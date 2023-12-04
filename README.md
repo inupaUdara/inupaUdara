@@ -49,7 +49,9 @@
 </div>  
 
 <br/>  
-## Github Stats  
+
+## Github Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inupaUdara&show_icons=true&locale=en&layout=compact" alt="inupaudara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inupaUdara&show_icons=true&locale=en" alt="inupaudara" /></p>
