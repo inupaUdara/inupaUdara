@@ -1,5 +1,5 @@
 <h1 align="center">Hi I,m Inupa Udara</h1>
-<h3 align="center">I'm currently studying Information Technology at Sri Lanka Institute of Information Technology.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inupaUdara&label=Profile%20views&color=0e75b6&style=flat" alt="inupaudara" /> </p>
 
