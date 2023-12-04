@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inupaUdara&label=Profile%20views&color=0e75b6&style=flat" alt="inupaudara" /> </p>
 
-- 🌱 I’m currently learning **JAVA and JavaScript**
+- 🌱 I’m currently learning **JavaScript** and **MERN Stack**
 
 - 📫 How to reach me **inupaudara2@gmail.com**
 
