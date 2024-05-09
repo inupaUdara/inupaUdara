@@ -75,11 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
@@ -96,14 +91,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/inupaUdara/inupaUdara/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br/>  
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=inupaUdara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
