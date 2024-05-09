@@ -28,7 +28,7 @@
 
 
 
-## Languages and Tools  
+## 💻 Languages and Tools: 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -49,15 +49,16 @@
 
 <br/>  
 
-## Github Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=inupaUdara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=inupaUdara&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inupaUdara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inupaUdara&show_icons=true&locale=en&layout=compact" alt="inupaudara" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inupaUdara&show_icons=true&locale=en" alt="inupaudara" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inupaUdara&" alt="inupaudara" /></p>
-
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=inupaUdara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
