@@ -1,4 +1,3 @@
-## IT22561534 
 ## Hey 👋, I'm Inupa Udara!  
   
 
