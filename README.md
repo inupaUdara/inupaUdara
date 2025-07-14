@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inupaUdara&label=Profile%20views&color=0e75b6&style=flat" alt="inupaudara" /> </p>
 
-- 🌱 I’m currently learning **Next.js**, **Flutter** and **AI / ML**
+- 🌱 I’m currently learning **Cloud Computing**, and **AI / ML**
 
 - 📫 How to reach me **inupaudara2@gmail.com**
 
