@@ -25,7 +25,7 @@ I’m a final-year undergraduate at Sri Lanka Institute of Information Technolog
 
 - 📫 How to reach me **inupaudara2@gmail.com**
   
-- 📌 Interests: Cloud computing, microservices, AI-driven solutions, Devops**
+- 📌 Interests: Cloud computing, microservices, AI-driven solutions, Devops
 
 
 
