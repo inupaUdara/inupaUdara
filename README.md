@@ -19,9 +19,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inupaUdara&label=Profile%20views&color=0e75b6&style=flat" alt="inupaudara" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**, and **AI / ML**
+💻 Full-Stack Developer | Cloud & Microservices Enthusiast | Problem Solver
+
+I’m a final-year undergraduate at Sri Lanka Institute of Information Technology (SLIIT) with ver 1 year of professional experience in frontend and backend development. I’ve worked on real-world projects using React, Redux, Next.js Spring Boot, Node.js and Moleculer collaborating closely with cross-functional teams in agile environments.
 
 - 📫 How to reach me **inupaudara2@gmail.com**
+  
+- 📌 Interests: Cloud computing, microservices, AI-driven solutions, Devops**
 
 
 
